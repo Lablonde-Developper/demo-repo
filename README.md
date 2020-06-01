@@ -1,18 +1,3 @@
-<h> # Introduction to web developement </h1>
+# Introduction to html5 and css3
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset= "UTF-8">
-  <meta name= "description" Content= "This is an awersome introduction to html5">
-  <title>Lablonde first gitHub project</title>
- </head>
- <body>
-   <main>
-   <section>
-   <p>This is my first gitHub project, I hope i will get use to it soon and build many projects inside here. I can't wait to be a pro in              creating my github repo. I'm so excited!</p>
-   </section
-   </main
- </body>
- </html>
-
+I am new to git and gitHub and i'm looking foreword to build amazing projects here. I'm so excited for taking this first step
